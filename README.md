@@ -16,13 +16,13 @@
 
   <!-- SOCIAL LINKS -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID_HERE">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID_HERE](https://www.linkedin.com/in/suraj-singh-86a492262/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:ss2818266@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://leetcode.com/YOUR_LEETCODE_ID">
+    <a href="https://leetcode.com/YOUR_LEETCODE_ID](https://leetcode.com/u/oGuiYOeviX/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
   </p>
