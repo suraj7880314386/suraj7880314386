@@ -30,21 +30,6 @@
 
 <br/>
 
-## 📈 My Contributions & Activity
-
-<div align="center">
-  <!-- STATS & LANGUAGES SIDE BY SIDE -->
-  <a href="https://github.com/suraj7880314386">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suraj7880314386&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph" />
-  </a>
-  <a href="https://github.com/suraj7880314386">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj7880314386&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph" />
-  </a>
-  <br/><br/><br/><br/><br/><br/><br/>
-</div>
-
-<br/>
-
 ## 🛠️ My Tech Arsenal
 
 ### Languages
