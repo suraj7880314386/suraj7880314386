@@ -30,6 +30,18 @@
 
 <br/>
 
+
+## 🌟 My Core Focus & Passion
+
+I'm a dedicated **AI/ML Engineer** and **Software Developer** with a strong foundation in Neuro-Symbolic AI and Full Stack Development. I specialize in building intelligent systems that merge deep learning perception with symbolic reasoning. My expertise spans from crafting robust backend architectures to designing advanced NLP pipelines.
+
+*   🔭 **Currently Researching:** Neuro-Symbolic Explainability (NC2X) & Dravidian Language NMT.
+*   🌱 **Mastering:** Advanced Computer Vision, Transformers, and Distributed Systems.
+*   💼 **Experience:** Backend Developer at **Infineze Pvt. Ltd.** & Freelance Developer.
+*   🎓 **Education:** B.Tech CSE (AI Specialization) at Bennett University (CGPA 8.71).
+
+<br/>
+
 ## 🛠️ My Tech Arsenal
 
 ### Languages
