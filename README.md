@@ -1,95 +1,100 @@
 <div align="center">
- 
-  <!-- TYPING EFFECT (Blue Text) -->
+  <!-- DYNAMIC TYPING HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Innovating+at+AI+%26+Full+Stack;From+Concept+to+Deployment;Building+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Innovative+AI%2FML+Engineer+%26+Researcher;Bridging+Deep+Learning+%26+Symbolic+Reasoning;Full-Stack+Developer+(MERN+%2B+Cloud);Microsoft+Hackathon+Participant+🚀" alt="Typing SVG" />
   </a>
 
-  <h1 align="center">Hi, I'm Suraj Singh 👋</h1>
+  <h1 align="center">Hi, I'm Suraj Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   
-  <h3 align="center">Aspiring AI/ML Engineer | Full-Stack Developer | Researcher</h3>
+  <h3 align="center">🧠 Neuro-Symbolic AI Researcher | ☁️ Cloud Architect | 💻 Full-Stack Developer</h3>
 
-  <!-- VIEW COUNTER -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=suraj7880314386&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <em>"Engineering explainable AI systems and scalable cloud architectures."</em>
   </p>
 
-  <!-- SOCIAL LINKS -->
+  <!-- PRO SOCIAL LINKS (Added Portfolio & Medium) -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/suraj-singh-86a492262/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://suraj-singh-my-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:ss2818266@gmail.com">
+    <a href="https://www.linkedin.com/in/suraj-singh-86a492262/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@ss2818266/nc2x-a-neuro-symbolic-framework-for-concept-causal-and-context-aware-explainability-9e913a2aef33">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="mailto:e23cseu1384@bennett.edu.in">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://leetcode.com/u/oGuiYOeviX/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
   </p>
+
+  <br/>
+
+  <!-- KEY METRICS -->
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suraj7880314386&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj7880314386&layout=compact&theme=tokyonight&langs_count=8"/>
+  </div>
 </div>
 
 <br/>
 
+## 👨‍💻 About Me & Research
 
-## 🌟 My Core Focus & Passion
+I am an **AI/ML Engineer** and **Full-Stack Developer** currently pursuing B.Tech CSE at **Bennett University (CGPA 8.71)**. My core expertise lies in **Neuro-Symbolic AI**, where I combine deep learning perception with logical reasoning.
 
-I'm a dedicated **AI/ML Engineer** and **Software Developer** with a strong foundation in Neuro-Symbolic AI and Full Stack Development. I specialize in building intelligent systems that merge deep learning perception with symbolic reasoning. My expertise spans from crafting robust backend architectures to designing advanced NLP pipelines.
-
-*   🔭 **Currently Researching:** Neuro-Symbolic Explainability (NC2X) & Dravidian Language NMT.
-*   🌱 **Mastering:** Advanced Computer Vision, Transformers, and Distributed Systems.
-*   💼 **Experience:** Backend Developer at **Infineze Pvt. Ltd.** & Freelance Developer.
-*   🎓 **Education:** B.Tech CSE (AI Specialization) at Bennett University (CGPA 8.71).
-
-<br/>
-
-## 🛠️ My Tech Arsenal
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-### Backend & Databases
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+*   🔬 **Research Focus:** Authored **NC2X Framework** (Under Publication, IEEE INDIACom) - A hybrid system combining **YOLOv8 & GNNs** for explainable AI.
+*   💼 **Industry Experience:** 
+    *   **Full-Stack Intern @ The Devs:** Building scalable MERN applications.
+    *   **Backend Intern @ Infineze Pvt Ltd:** Optimized API latency by **40%** via SQL indexing.
+*   🏆 **Hackathons:** 
+    *   **Microsoft Hackathon:** Optimized AI Content Gen backend (30% latency drop).
+    *   **SIH 2025:** Team Lead for Tourist Safety Platform.
+*   ☁️ **Cloud:** Experienced in deploying secure architectures on **Azure** & **AWS**.
 
 <br/>
 
-## 🚀 Project Showcase
+## 🛠️ Tech Stack (Microsoft Optimized)
 
-| Project | Description | Tech Stack |
+<div align="center">
+
+| **Core AI & Data** | **Full-Stack & Cloud** |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black) <br> ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-007FFF?style=flat&logo=microsoft-azure&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects & Articles
+
+| Project / Article | Description & Impact | Tech |
 | :--- | :--- | :--- |
-| **Neuro-Symbolic AI (NC2X)** | Hybrid system combining YOLOv8 & GNNs. >52% confidence drop in causal interventions. | Python, YOLOv8, GNNs |
-| **Translation System** | OCR + NLP pipeline using Hugging Face transformers for Telugu-Tamil. | Transformers, NLP |
-| **AI Content Generator** | **Microsoft Hackathon:** Flask routing optimization, 30% latency reduction. | Python, Flask, OpenAI |
-| **Tourist Safety Platform** | **SIH Hackathon:** Blockchain ID verification & anomaly detection (~92% acc). | React, Web3, ML |
+| **[NC2X Framework (Medium)](https://medium.com/@ss2818266/nc2x-a-neuro-symbolic-framework-for-concept-causal-and-context-aware-explainability-9e913a2aef33)** | **Research Paper.** Engineered a neuro-symbolic framework achieving **>52% confidence drop** in causal intervention tests. | `Python` `GNNs` `YOLOv8` |
+| **AI Content Generator** | **Microsoft Hackathon.** Optimized Flask routing algorithms, resulting in a **30% reduction** in backend latency. | `Azure` `Flask` `OpenAI` |
+| **Translation System** | **NLLB Fine-tuning.** OCR + NLP pipeline for Telugu-Tamil manuscripts using Hugging Face transformers. | `Transformers` `NLP` |
+| **Mini Linux Shell** | **System Programming.** Custom shell with piping, background processes, and memory management (<50ms latency). | `C++` `Linux API` |
 
 <br/>
 
-## 🏆 Achievements & Activity
+## 🐍 GitHub Activity & Consistency
 
-<!-- ACTIVITY LINE GRAPH -->
+<!-- SNAKE ANIMATION (Must setup workflow) -->
+<div align="center">
+  <img src="https://github.com/suraj7880314386/suraj7880314386/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj7880314386&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
-
-<!-- SNAKE GAME ANIMATION -->
-<div align="center">
-  <img src="https://github.com/suraj7880314386/suraj7880314386/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
-</div>
-
-<br/>
 <hr/>
 <div align="center">
-  <p>Thanks for visiting! Feel free to star any repositories that catch your eye. ✨</p>
+  <p>Visitor Count</p>
+  <img src="https://komarev.com/ghpvc/?username=suraj7880314386&color=blue&style=flat-square&label=Views" alt="Profile Views" />
 </div>
