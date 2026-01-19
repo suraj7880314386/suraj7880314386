@@ -6,7 +6,7 @@
 
   <h1 align="center">Hi, I'm Suraj Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   
-  <h3 align="center">🧠 AI Researcher | ☁️ Cloud Architect | 💻 Full-Stack Developer</h3>
+  <h3 align="center">🧠 AI Researcher | ☁️ Software Developer | 💻 Full-Stack Developer</h3>
 
   <p align="center">
     <em>"Engineering explainable AI systems (NC2X) and optimizing cloud latency."</em>
@@ -68,11 +68,11 @@ I am a **Neuro-Symbolic AI Researcher** and **Software Developer** focused on bu
 
 <br/>
 
-## 🛠️ Tech Arsenal (Microsoft Optimized)
+## 🛠️ Tech 
 
 <div align="center">
 
-| **Core AI & Data Science** | **Full-Stack, Cloud & DevOps** |
+| **Core AI & Data Science** | **Software, Full-Stack, Cloud & DevOps** |
 | :--- | :--- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black) <br> ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-007FFF?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) <br> ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
 
