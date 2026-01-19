@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- DYNAMIC TYPING HEADER: Focus on AI, Cloud & Innovation -->
+  <!-- DYNAMIC TYPING HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Neuro-Symbolic+AI+Researcher+%26+Engineer;Building+Scalable+Cloud+Architectures+(Azure);Microsoft+Hackathon+Participant+🚀;Bridging+Deep+Learning+%26+Logic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Neuro-Symbolic+AI+Researcher;Building+Scalable+Cloud+Architectures+(Azure);Microsoft+Hackathon+Participant+🚀;Bridging+Deep+Learning+%26+Logic" alt="Typing SVG" />
   </a>
 
   <h1 align="center">Hi, I'm Suraj Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
@@ -12,7 +12,7 @@
     <em>"Engineering explainable AI systems (NC2X) and optimizing cloud latency."</em>
   </p>
 
-  <!-- SOCIAL LINKS (Professional & Working) -->
+  <!-- SOCIAL LINKS -->
   <p align="center">
     <a href="https://suraj-singh-my-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
@@ -33,19 +33,25 @@
 
   <br/>
 
-  <!-- KEY METRICS (Fixed: Hidden Grade & Fixed Streak) -->
+  <!-- KEY METRICS (Fixed: Hidden 0 stats & Added Trophies) -->
   <div align="center">
+    <!-- Stats Card: Hiding Stars/PRs/Issues to show only Commits -->
     <a href="https://github.com/suraj7880314386">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suraj7880314386&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs&hide_border=true&hide_rank=true" alt="Suraj's GitHub Stats" />
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suraj7880314386&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues,contribs&hide_border=true&hide_rank=true" alt="Suraj's GitHub Stats" />
     </a>
+    <!-- Languages Card -->
     <a href="https://github.com/suraj7880314386">
       <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj7880314386&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
     </a>
   </div>
   
-  <!-- STREAK STATS (Server Changed to Demolab for stability) -->
+  <br/>
+
+  <!-- TROPHIES (Replaced Broken Streak with Stable Trophies) -->
   <div align="center">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=suraj7880314386&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=suraj7880314386&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="Suraj's Trophies" />
+    </a>
   </div>
 </div>
 
