@@ -33,9 +33,9 @@
 
   <br/>
 
-  <!-- KEY METRICS (Fixed: Hidden 0 stats & Added Trophies) -->
+  <!-- KEY METRICS (Clean & Professional) -->
   <div align="center">
-    <!-- Stats Card: Hiding Stars/PRs/Issues to show only Commits -->
+    <!-- Stats Card -->
     <a href="https://github.com/suraj7880314386">
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suraj7880314386&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues,contribs&hide_border=true&hide_rank=true" alt="Suraj's GitHub Stats" />
     </a>
@@ -47,11 +47,9 @@
   
   <br/>
 
-  <!-- TROPHIES (Replaced Broken Streak with Stable Trophies) -->
+  <!-- ACTIVITY GRAPH (This is reliable and looks like Data Science) -->
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=suraj7880314386&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="Suraj's Trophies" />
-    </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj7880314386&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
   </div>
 </div>
 
@@ -93,16 +91,11 @@ I am a **Neuro-Symbolic AI Researcher** and **Software Developer** focused on bu
 
 <br/>
 
-## 🐍 Activity Graph & Snake
+## 🐍 GitHub Snake
 
-<!-- SNAKE ANIMATION -->
+<!-- SNAKE ANIMATION (Requires Workflow) -->
 <div align="center">
   <img src="https://github.com/suraj7880314386/suraj7880314386/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<!-- ACTIVITY LINE -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj7880314386&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
