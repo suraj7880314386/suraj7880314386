@@ -374,8 +374,8 @@ timeline
 
 | # | Project | What I Built | Impact | Stack |
 |:-:|---------|-------------|--------|-------|
-| 🧠 | **[NC2X Framework](https://medium.com/@ss2818266/nc2x-a-neuro-symbolic-framework-for-concept-causal-and-context-aware-explainability-9e913a2aef33)** `Live Demo` | Neuro-symbolic pipeline: YOLOv11 perception → GNN reasoning → causal intervention | **IEEE Paper** · >52% confidence drop · 1.6x faster reasoning | `Python` `YOLOv11` `GNNs` `PyTorch` |
-| 🎙️ | **BigFrench TEF/TCF** `Live` | MERN test engine + custom AI grading model for speaking/writing evaluation | **Production app** · Proprietary dataset · Supercomputing-trained model | `MERN` `AI/ML` `AWS` `MongoDB` |
+| 🧠 | **[NC2X Framework](https://huggingface.co/spaces/jdwnx234/NC2X-Project)** [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6F61?style=flat-square)](https://huggingface.co/spaces/jdwnx234/NC2X-Project) | Neuro-symbolic pipeline: YOLOv11 perception → GNN reasoning → causal intervention | **IEEE Paper** · >52% confidence drop · 1.6x faster reasoning | `Python` `YOLOv11` `GNNs` `PyTorch` |
+| 🎙️ | **[BigFrench TEF/TCF](https://www.bigfrench.com/)** [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://www.bigfrench.com/) | MERN test engine + custom AI grading model for speaking/writing evaluation | **Production app** · Proprietary dataset · Supercomputing-trained model | `MERN` `AI/ML` `AWS` `MongoDB` |
 | 🤖 | **AI Multi-Agent Research Assistant** | Multi-agent RAG pipeline for semantic search & reasoning across documents | Conversational memory · Scalable Docker deployment | `LangChain` `FastAPI` `ChromaDB` `Docker` |
 | 🎯 | **HiredNext** | Voice-based AI mock interview platform with real-time role-specific interviews | Vapi.ai + Gemini AI · Category-wise AI scoring dashboard | `Next.js` `Firebase` `Vapi.ai` `Gemini` |
 | 🔧 | **AI Agent Tool-Calling API** | Production-ready LLM system with tool-calling (search, calc, DB query) | Structured outputs · Retry logic · Docker-deployed | `LangChain` `FastAPI` `Docker` |
