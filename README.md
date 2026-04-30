@@ -12,7 +12,7 @@
 <!-- ─── INTRO SECTION ─── -->
 <div align="center">
 
-  <h3>AI Researcher  ·  Cloud Architect  ·  Full-Stack Engineer   ·  Software Developer   · AI/Ml</h3>
+  <h3>AI Researcher  ·  Cloud Architect  ·  Full-Stack Engineer</h3>
 
   <p>
     <em>"Engineering explainable AI systems (NC2X) and shipping production-grade cloud applications."</em>
@@ -87,32 +87,58 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
-```yaml
-name: Suraj Singh
-located_in: Greater Noida, India
-phone: (+91) 7880314386
-email: e23cseu1384@bennett.edu.in
+<table>
+<tr>
+<td width="50%" valign="top">
 
-education:
-  degree: B.Tech CSE (AI Specialization)
-  university: Bennett University
-  cgpa: 9.1 / 10.0
-  duration: Aug 2023 – May 2027
+### Who I Am
 
-research_publications: 2  # IEEE INDIACom + IEEE IATMSI
-hackathons_participated: 4  # SIH, Hackaccino, Microsoft, Innovation Showcase
+I'm a **Neuro-Symbolic AI Researcher** and **Full-Stack Developer** building intelligent systems that are not just accurate — but *explainable*.
 
-current_roles:
-  - "Full-Stack & AI Developer (Freelance) — BigFrench TEF/TCF [Live]"
-  - "Neuro-Symbolic AI Researcher — NC2X Framework"
+I merge **Deep Learning perception** with **Symbolic reasoning**, and ship **production-grade applications** with real users.
 
-expertise:
-  ai_ml: ["LangChain", "Multi-Agent RAG", "YOLOv11", "GNNs", "ConvNeXt", "Transformers"]
-  full_stack: ["MERN", "Next.js", "FastAPI", "Firebase", "REST APIs"]
-  cloud_devops: ["AWS (S3/EC2)", "Azure", "Docker", "CI/CD", "Linux/Unix"]
-
-fun_fact: "I trained a custom AI grading model on supercomputing resources for live exams."
 ```
+Currently:
+├── Freelancing → BigFrench TEF/TCF [Live Product]
+├── Research    → NC2X Framework (2x IEEE Papers)
+└── Learning    → Diffusion Models, Kubernetes, Rust
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Quick Facts
+
+|  |  |
+|:--|:--|
+| **University** | Bennett University (2023–2027) |
+| **Degree** | B.Tech CSE, AI Specialization |
+| **CGPA** | **9.1** / 10.0 |
+| **Papers** | 2x IEEE (INDIACom + IATMSI) |
+| **Hackathons** | 4 (SIH Lead, Microsoft, Hackaccino, Innovation) |
+| **Live Products** | BigFrench TEF/TCF — AI Exam Grading |
+| **Fun Fact** | Trained a custom AI model on supercomputing infra |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**What I work with daily:**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square)
+![GNNs](https://img.shields.io/badge/GNNs-EE4C2C?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 <br/>
 
