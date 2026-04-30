@@ -5,11 +5,11 @@
 <div align="center">
 
   <!-- ─── ANIMATED HERO BANNER ─── -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0078D4&height=220&section=header&text=Suraj%20Singh&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Neuro-Symbolic%20AI%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Full-Stack%20Engineer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0078D4&height=220&section=header&text=Suraj%20Singh&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Neuro-Symbolic%20AI%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Full-Stack%20Engineer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
   <!-- ─── DYNAMIC TYPING ─── -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AC+Building+NC2X+%E2%80%94+Neuro-Symbolic+Explainable+AI;%E2%98%81%EF%B8%8F+Optimizing+Azure+Cloud+%7C+30%25+Latency+Reduction;%F0%9F%8F%97%EF%B8%8F+Architecting+Scalable+Full-Stack+Systems;%F0%9F%93%84+IEEE+INDIACom+Published+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%94%AC+NC2X+%E2%80%94+Neuro-Symbolic+Explainable+AI+%7C+IEEE+Published;%E2%98%81%EF%B8%8F+AWS+%2B+Azure+Cloud+%7C+Production+AI+Systems;%F0%9F%A4%96+Multi-Agent+RAG+%7C+LangChain+%7C+Tool-Calling+LLMs;%F0%9F%8F%97%EF%B8%8F+Full-Stack+MERN+%2B+Next.js+%7C+Freelance+%26+Startup" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -17,11 +17,12 @@
   <!-- ─── PROFILE BADGES ─── -->
   <p>
     <img src="https://img.shields.io/badge/Focus-Neuro--Symbolic%20AI-58a6ff?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Education-Bennett%20University-blue?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-success?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/CGPA-9.1%2F10.0-blueviolet?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Papers-2x%20IEEE-critical?style=for-the-badge&labelColor=0d1117" />
   </p>
 
-  <!-- ─── SOCIAL LINKS (Animated Hover) ─── -->
+  <!-- ─── SOCIAL LINKS ─── -->
   <p>
     <a href="https://suraj-singh-my-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" />
@@ -55,66 +56,178 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me — The Short Version
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
 ```yaml
 name: Suraj Singh
-located_in: India
+located_in: Greater Noida, India
+phone: (+91) 7880314386
+email: e23cseu1384@bennett.edu.in
+
 education:
   degree: B.Tech CSE (AI Specialization)
   university: Bennett University
-  cgpa: 8.71
+  cgpa: 9.1 / 10.0
+  duration: Aug 2023 – May 2027
 
-current_focus:
-  - "NC2X: Neuro-Symbolic Framework for Explainable AI"
-  - "Cloud-native architectures on Azure"
-  - "Scalable full-stack systems with Redis & Node.js"
+research_publications: 2  # IEEE INDIACom + IEEE IATMSI
+hackathons_participated: 4  # SIH, Hackaccino, Microsoft, Innovation Showcase
 
-research:
-  paper: "NC2X — Concept, Causal & Context-Aware Explainability"
-  venue: "IEEE INDIACom 2025"
-  method: "YOLOv8 + GNNs hybrid pipeline"
-  result: ">52% confidence drop in causal intervention tests"
+current_roles:
+  - "Full-Stack & AI Developer (Freelance) — BigFrench TEF/TCF [Live]"
+  - "Neuro-Symbolic AI Researcher — NC2X Framework"
 
-achievements:
-  - "🏆 Microsoft Hackathon — 30% latency reduction on Azure"
-  - "📉 Reduced API latency 40% via SQL indexing @ Infineze"
-  - "🛒 Architected secure E-commerce platforms (Redis + Node.js)"
-  - "📄 IEEE Published Researcher"
+expertise:
+  ai_ml: ["LangChain", "Multi-Agent RAG", "YOLOv11", "GNNs", "ConvNeXt", "Transformers"]
+  full_stack: ["MERN", "Next.js", "FastAPI", "Firebase", "REST APIs"]
+  cloud_devops: ["AWS (S3/EC2)", "Azure", "Docker", "CI/CD", "Linux/Unix"]
 
-currently_learning: ["Diffusion Models", "Rust for Systems", "K8s"]
-fun_fact: "I debug neural networks and distributed systems for fun."
+fun_fact: "I trained a custom AI grading model on supercomputing resources for live exams."
 ```
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!--                             EXPERIENCE TIMELINE                              -->
+<!--                             EXPERIENCE                                       -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🗺️ &nbsp;Experience & Milestones
+## 💼 &nbsp;Professional Experience
 
 ```mermaid
 timeline
-    title Career & Research Journey
-    section Research
-        2024 : NC2X Framework Development
-             : IEEE INDIACom Submission
-             : YOLOv8 + GNN Hybrid Pipeline
-    section Industry
-        2024 : Microsoft Hackathon — Azure Optimization
-             : Backend Intern @ Infineze Pvt Ltd
-             : 40% API Latency Reduction
-    section Projects
-        2024 : AI Content Generator (Azure + Flask)
-             : Translation System (NLLB Fine-tuning)
-             : Tourist Safety Platform (SIH Hackathon)
-    section Education
-        2022-2026 : B.Tech CSE (AI) @ Bennett University
-                  : CGPA 8.71
+    title Career Timeline
+    section 2026
+      Full-Stack & AI Developer (Freelance) — BigFrench
+        : Built MERN-stack mock test engine (TEF/TCF Canada) [LIVE]
+        : Trained custom AI grading model on supercomputing infra
+        : Deployed inference API on AWS · Linux VPS
+      Full-Stack Developer Intern — The Devs
+        : Scalable MERN stack applications
+        : Optimized Node.js APIs · Clean modular code
+    section 2025
+      Backend Developer Intern — Infineze Pvt. Ltd.
+        : RBAC-based auth system · Enterprise REST APIs
+        : 40% API performance improvement via SQL optimization
+      NC2X Research — IEEE INDIACom
+        : Neuro-symbolic explainable AI framework
+        : >52% confidence drop · 1.6x faster reasoning
+      NMT Research — IEEE IATMSI
+        : Fine-tuned NLLB for English–Telugu/Tamil
+    section 2024
+      Microsoft Hackathon
+        : AI Content Generator on Azure
+      Innovation Showcase 1.0
+        : Multi-Mode GenAI · Validated by Google Cloud & Adobe
+    section 2023
+      Bennett University
+        : B.Tech CSE (AI Specialization) begins
+        : Registration Head — Bennovate 2.0
 ```
+
+<br/>
+
+<details>
+<summary><b>📋 Detailed Experience Breakdown</b></summary>
+
+<br/>
+
+### 🟢 Full-Stack & AI Developer (Freelance) — BigFrench: TEF/TCF `[Live Product]`
+> **Feb 2026 – Present** &nbsp;|&nbsp; `Python` `AI/ML` `AWS` `MongoDB` `MERN` `REST APIs`
+
+- Engineered a scalable MERN-stack **mock test engine** with complex state management for real-time exam evaluation
+- Developed a **custom AI grading model** to evaluate speaking & writing sections of TEF/TCF Canada exams
+- Curated proprietary dataset, trained leveraging **supercomputing resources**, hosted inference API on **AWS**
+- Optimized database schemas and deployed on **Linux VPS** ensuring high availability
+
+### 🟢 Full-Stack Developer Intern — The Devs (Remote)
+> **Jan 2026 – Mar 2026** &nbsp;|&nbsp; `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+- Built and maintained scalable **MERN stack** applications with responsive React UI
+- Optimized Node.js APIs and ensured clean, modular code following REST API best practices
+
+### 🟡 Backend Developer Intern — Infineze Pvt. Ltd. (Remote)
+> **Sep 2025 – Nov 2025** &nbsp;|&nbsp; `Node.js` `Express.js` `SQL` `RBAC Auth` `REST APIs`
+
+- Designed secure **RBAC-based authentication** system and modular REST APIs for enterprise services
+- Improved API performance by **40%** via SQL query optimization, indexing, and structured logging
+
+</details>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          RESEARCH PUBLICATIONS                               -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔬 &nbsp;Research Publications
+
+<div align="center">
+
+<!-- Paper 1 -->
+<table>
+<tr>
+<td width="50%">
+
+### 📄 Paper I — NC2X Framework
+**IEEE INDIACom** (Under Publication) &nbsp;|&nbsp; Nov 2025
+
+```
+┌─────────────────────────────────────────────┐
+│                NC2X Pipeline                │
+│                                             │
+│  ┌──────────┐   ┌──────────┐   ┌────────┐  │
+│  │ ConvNeXt │──▶│   GNN    │──▶│ Causal │  │
+│  │ +YOLOv11 │   │ Reasoning│   │ Interv.│  │
+│  └──────────┘   └──────────┘   └────────┘  │
+│       │              │              │       │
+│  Perception    Concept Layer   >52% Drop   │
+│                                             │
+│  🧪 MS-COCO Dataset │ PyTorch              │
+│  ⚡ 1.6x Faster Reasoning                  │
+│  🏥 Non-invasive disease insight            │
+│     (e.g., endometriosis)                   │
+└─────────────────────────────────────────────┘
+```
+
+`Python` `ConvNeXt` `GNN` `YOLOv11` `MS-COCO` `PyTorch`
+
+</td>
+<td width="50%">
+
+### 📄 Paper II — Advancing NMT for Dravidian Languages
+**IEEE IATMSI** (Under Review) &nbsp;|&nbsp; Dec 2025
+
+```
+┌─────────────────────────────────────────────┐
+│        Neural Machine Translation           │
+│                                             │
+│  ┌──────────┐   ┌──────────┐   ┌────────┐  │
+│  │ English  │──▶│   NLLB   │──▶│ Telugu │  │
+│  │  Input   │   │Fine-tuned│   │ Tamil  │  │
+│  └──────────┘   └──────────┘   └────────┘  │
+│                                             │
+│  🌐 Low-resource language focus             │
+│  🤗 Meta NLLB Transformer                   │
+│  📊 Improved BLEU scores for               │
+│     English ↔ Telugu/Tamil pairs            │
+└─────────────────────────────────────────────┘
+```
+
+`Python` `Transformers` `Meta NLLB` `NLP` `HuggingFace`
+
+</td>
+</tr>
+</table>
+
+<a href="https://medium.com/@ss2818266/nc2x-a-neuro-symbolic-framework-for-concept-causal-and-context-aware-explainability-9e913a2aef33">
+  <img src="https://img.shields.io/badge/📖_Read_NC2X_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+</div>
 
 <br/>
 
@@ -132,24 +245,14 @@ timeline
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
 </p>
 
 ### 🌐 Full-Stack Development
@@ -159,11 +262,25 @@ timeline
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ☁️ Cloud, DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=circleci&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Tools
@@ -176,47 +293,15 @@ timeline
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          FEATURED RESEARCH                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🔬 &nbsp;Featured Research — NC2X Framework
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   NC2X: Neuro-Symbolic Framework for Concept, Causal &                   ║
-║         Context-Aware Explainability                                     ║
-║                                                                          ║
-║   📄 Published at IEEE INDIACom 2025                                     ║
-║                                                                          ║
-║   ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐            ║
-║   │  YOLOv8     │───▶│  GNN-based   │───▶│  Causal         │            ║
-║   │  Perception │    │  Reasoning   │    │  Intervention   │            ║
-║   └─────────────┘    └──────────────┘    └─────────────────┘            ║
-║         │                   │                    │                       ║
-║         ▼                   ▼                    ▼                       ║
-║   ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐            ║
-║   │  Object     │    │  Concept     │    │  >52% Conf.     │            ║
-║   │  Detection  │    │  Bottleneck  │    │  Drop Achieved  │            ║
-║   └─────────────┘    └──────────────┘    └─────────────────┘            ║
-║                                                                          ║
-║   🚀 1.6x Faster Reasoning via Vectorized Operations                    ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://medium.com/@ss2818266/nc2x-a-neuro-symbolic-framework-for-concept-causal-and-context-aware-explainability-9e913a2aef33">
-  <img src="https://img.shields.io/badge/📖_Read_Full_Paper_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+### 🗣️ Languages & Core CS
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-2C8EBB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Programming-6A0DAD?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -232,29 +317,18 @@ timeline
 
 <div align="center">
 
-<!-- Project Card 1 -->
-<a href="https://medium.com/@ss2818266/nc2x-a-neuro-symbolic-framework-for-concept-causal-and-context-aware-explainability-9e913a2aef33">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=suraj7880314386&repo=NC2X-Framework&theme=tokyonight&hide_border=true&show_owner=true&description=Neuro-Symbolic%20AI%20Framework%20for%20Explainable%20AI%20%7C%20IEEE%20INDIACom%202025" />
-</a>
+| # | Project | What I Built | Impact | Stack |
+|:-:|---------|-------------|--------|-------|
+| 🧠 | **[NC2X Framework](https://medium.com/@ss2818266/nc2x-a-neuro-symbolic-framework-for-concept-causal-and-context-aware-explainability-9e913a2aef33)** `Live Demo` | Neuro-symbolic pipeline: YOLOv11 perception → GNN reasoning → causal intervention | **IEEE Paper** · >52% confidence drop · 1.6x faster reasoning | `Python` `YOLOv11` `GNNs` `PyTorch` |
+| 🎙️ | **BigFrench TEF/TCF** `Live` | MERN test engine + custom AI grading model for speaking/writing evaluation | **Production app** · Proprietary dataset · Supercomputing-trained model | `MERN` `AI/ML` `AWS` `MongoDB` |
+| 🤖 | **AI Multi-Agent Research Assistant** | Multi-agent RAG pipeline for semantic search & reasoning across documents | Conversational memory · Scalable Docker deployment | `LangChain` `FastAPI` `ChromaDB` `Docker` |
+| 🎯 | **HiredNext** | Voice-based AI mock interview platform with real-time role-specific interviews | Vapi.ai + Gemini AI · Category-wise AI scoring dashboard | `Next.js` `Firebase` `Vapi.ai` `Gemini` |
+| 🔧 | **AI Agent Tool-Calling API** | Production-ready LLM system with tool-calling (search, calc, DB query) | Structured outputs · Retry logic · Docker-deployed | `LangChain` `FastAPI` `Docker` |
+| 🌐 | **Translation System** | End-to-end OCR + NLP for low-resource languages (English ↔ Telugu/Tamil) | **IEEE Paper** · Fine-tuned NLLB transformer | `Transformers` `NLP` `HuggingFace` |
+| 🛡️ | **Tourist Safety Platform** | Blockchain-based ID verification with ML anomaly detection | **SIH Hackathon (Team Lead)** · ~92% accuracy | `React` `Web3` `ML` `Node.js` |
+| 🐧 | **Mini Linux Shell** | Custom shell: piping, background processes, signal handling | <50ms execution · Zero memory leaks | `C++` `System Programming` |
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>📂 Click to expand all projects</b></summary>
-
-<br/>
-
-| # | Project | What I Built | Impact | Stack |
-|---|---------|-------------|--------|-------|
-| 🏆 | **NC2X Framework** | Neuro-symbolic pipeline combining perception (YOLOv8) with reasoning (GNNs) for explainable AI | **IEEE Paper** · >52% confidence drop · 1.6x faster reasoning | `Python` `PyTorch` `GNNs` `YOLOv8` |
-| ☁️ | **AI Content Generator** | Optimized Flask backend with OpenAI API integration, deployed on Azure | **Microsoft Hackathon** · 30% latency reduction | `Azure` `Flask` `OpenAI` `Python` |
-| 🌐 | **Translation System** | End-to-end OCR + NLP pipeline for low-resource language translation (Telugu↔Tamil) | Fine-tuned NLLB for underserved language pairs | `Transformers` `NLP` `HuggingFace` |
-| 🛡️ | **Tourist Safety Platform** | Blockchain-based ID verification with ML anomaly detection | **SIH Hackathon** · ~92% detection accuracy | `React` `Web3` `ML` `Node.js` |
-| 🛒 | **E-Commerce Platform** | Full-stack architecture with session management, caching, and secure payments | Production-grade system with Redis caching | `Node.js` `Redis` `MongoDB` `React` |
-
-</details>
 
 <br/>
 
@@ -268,7 +342,6 @@ timeline
 
 <div align="center">
 
-  <!-- Stats + Streak + Languages -->
   <a href="https://github.com/suraj7880314386">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=suraj7880314386&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
   </a>
@@ -299,28 +372,69 @@ timeline
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!--                            METRICS & IMPACT                                  -->
+<!--                        ACHIEVEMENTS & CERTIFICATIONS                         -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 &nbsp;Impact Metrics
+## 🏆 &nbsp;Achievements & Certifications
 
 <div align="center">
 
 ```
- ┌──────────────────────────────────────────────────────────────┐
- │                    KEY ACHIEVEMENTS                          │
- ├──────────────┬───────────────────────────────────────────────┤
- │  📄 IEEE     │  Published NC2X Framework at INDIACom 2025   │
- │  ☁️ Azure    │  30% latency reduction (Microsoft Hackathon) │
- │  📉 Backend  │  40% API latency cut via SQL indexing        │
- │  🎯 ML       │  92% anomaly detection accuracy (SIH)        │
- │  ⚡ Speed    │  1.6x faster reasoning (vectorized ops)      │
- │  🔬 XAI      │  >52% confidence drop in causal tests        │
- │  🎓 GPA      │  8.71 CGPA @ Bennett University              │
- └──────────────┴───────────────────────────────────────────────┘
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║                         HACKATHONS & COMPETITIONS                       ║
+ ╠══════════════════╦═══════════════════════════════════════════════════════╣
+ ║  🥇 SIH 2025    ║  Tourist Safety Platform │ Team Lead                 ║
+ ║                  ║  Evaluated by Industry Experts                       ║
+ ╠══════════════════╬═══════════════════════════════════════════════════════╣
+ ║  🎯 Hackaccino  ║  HiredNext (AI Mock Interviewer) │ Participant       ║
+ ║     3.0 (2025)  ║  Evaluated by Senior Technical Panel                 ║
+ ╠══════════════════╬═══════════════════════════════════════════════════════╣
+ ║  ☁️ Microsoft   ║  AI Content Generator │ Participant                  ║
+ ║     (Jan 2025)  ║  Evaluated by Microsoft Mentors                      ║
+ ╠══════════════════╬═══════════════════════════════════════════════════════╣
+ ║  💡 Innovation  ║  Multi-Mode GenAI │ Participant                      ║
+ ║     1.0 (2024)  ║  Validated by Google Cloud & Adobe leaders           ║
+ ╠══════════════════╩═══════════════════════════════════════════════════════╣
+ ║                          CERTIFICATIONS                                 ║
+ ╠═════════════════════════════════════════════════════════════════════════╣
+ ║  📜 PMP Formulas ─────────────────────────────── Microsoft (Coursera)  ║
+ ║  📜 OS & Power User ──────────────────────────── Google (Coursera)     ║
+ ║  📜 Object-Oriented C++ ──────────────────────── Codio (Coursera)      ║
+ ╠═════════════════════════════════════════════════════════════════════════╣
+ ║                     POSITIONS OF RESPONSIBILITY                         ║
+ ╠═════════════════════════════════════════════════════════════════════════╣
+ ║  🎓 Registration Head ── Bennovate 2.0, Bennett University (Dec 2023) ║
+ ║  🧑‍🏫 Mentor ── Freshmen Onboarding (GitHub, Dev Setup) (Aug 2025)     ║
+ ╚═════════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            IMPACT METRICS                                    -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 &nbsp;Impact at a Glance
+
+<div align="center">
+
+| Metric | Value | Context |
+|:------:|:-----:|---------|
+| 📄 | **2** | IEEE Research Papers (INDIACom + IATMSI) |
+| ⚡ | **40%** | API Latency Reduction (SQL optimization @ Infineze) |
+| 🔬 | **>52%** | Confidence Drop in Causal Intervention Tests (NC2X) |
+| 🚀 | **1.6x** | Faster Reasoning via Vectorized Operations |
+| 🎯 | **92%** | Anomaly Detection Accuracy (SIH Tourist Safety) |
+| 🏥 | **NC2X** | Applied to non-invasive disease insight (endometriosis) |
+| 🎓 | **9.1** | CGPA at Bennett University |
+| 🏆 | **4** | Hackathons (SIH, Hackaccino, Microsoft, Innovation Showcase) |
+| 🌐 | **1** | Live Production App (BigFrench TEF/TCF) |
 
 </div>
 
@@ -332,16 +446,17 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔭 &nbsp;What I'm Working On
+## 🔭 &nbsp;What I'm Working On Now
 
 <div align="center">
 
 | Status | Project | Description |
 |:------:|---------|-------------|
-| 🟢 | **NC2X v2** | Extending the neuro-symbolic framework with attention-based concept bottlenecks |
-| 🟡 | **Cloud Microservices** | Building event-driven architectures on Azure with Docker + K8s |
-| 🔵 | **Open Source** | Contributing to PyTorch Geometric and Hugging Face Transformers |
-| 🟣 | **Learning** | Exploring Diffusion Models, Rust for performance-critical systems |
+| 🟢 | **BigFrench TEF/TCF** | Live freelance product — AI-graded language exams on AWS |
+| 🟢 | **NC2X v2** | Extending neuro-symbolic framework with ConvNeXt backbone |
+| 🟡 | **Multi-Agent Systems** | Building production LLM agents with tool-calling & RAG |
+| 🔵 | **Open Source** | Contributing to LangChain, HuggingFace Transformers |
+| 🟣 | **Learning** | Diffusion Models, Kubernetes, Rust for systems |
 
 </div>
 
@@ -374,7 +489,7 @@ timeline
 
   <br/><br/>
 
-  <b>💬 Let's Connect & Build Something Amazing Together!</b>
+  <b>💬 Let's Build Something Extraordinary Together</b>
 
   <br/><br/>
 
