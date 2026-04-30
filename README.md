@@ -5,47 +5,76 @@
 <div align="center">
 
   <!-- ─── ANIMATED HERO BANNER ─── -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0078D4&height=220&section=header&text=Suraj%20Singh&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Neuro-Symbolic%20AI%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Full-Stack%20Engineer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0078D4&height=230&section=header&text=Suraj%20Singh&fontSize=55&fontColor=58a6ff&fontAlignY=38&animation=fadeIn" />
 
-  <!-- ─── DYNAMIC TYPING ─── -->
+</div>
+
+<!-- ─── INTRO SECTION ─── -->
+<div align="center">
+
+  <h3>AI Researcher  ·  Cloud Architect  ·  Full-Stack Engineer</h3>
+
+  <p>
+    <em>"Engineering explainable AI systems (NC2X) and shipping production-grade cloud applications."</em>
+  </p>
+
+</div>
+
+<br/>
+
+<!-- ─── DYNAMIC TYPING ─── -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%94%AC+NC2X+%E2%80%94+Neuro-Symbolic+Explainable+AI+%7C+IEEE+Published;%E2%98%81%EF%B8%8F+AWS+%2B+Azure+Cloud+%7C+Production+AI+Systems;%F0%9F%A4%96+Multi-Agent+RAG+%7C+LangChain+%7C+Tool-Calling+LLMs;%F0%9F%8F%97%EF%B8%8F+Full-Stack+MERN+%2B+Next.js+%7C+Freelance+%26+Startup" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=NC2X+Neuro-Symbolic+Explainable+AI+%7C+IEEE+Published;AWS+%2B+Azure+Cloud+%7C+Production+AI+Systems;Multi-Agent+RAG+%7C+LangChain+%7C+Tool-Calling+LLMs;Full-Stack+MERN+%2B+Next.js+%7C+Freelance+%26+Startup" alt="Typing SVG" />
   </a>
+</div>
 
-  <br/>
+<br/>
 
-  <!-- ─── PROFILE BADGES ─── -->
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Neuro--Symbolic%20AI-58a6ff?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-success?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/CGPA-9.1%2F10.0-blueviolet?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Papers-2x%20IEEE-critical?style=for-the-badge&labelColor=0d1117" />
-  </p>
+<!-- ─── PROFILE BADGES ─── -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Neuro--Symbolic%20AI-58a6ff?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-9.1%2F10.0-blueviolet?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Papers-2x%20IEEE-critical?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India-success?style=for-the-badge&labelColor=0d1117" />
+</div>
 
-  <!-- ─── SOCIAL LINKS ─── -->
-  <p>
-    <a href="https://suraj-singh-my-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" />
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/suraj-singh-86a492262/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;
-    <a href="https://medium.com/@ss2818266">
-      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>&nbsp;
-    <a href="mailto:e23cseu1384@bennett.edu.in">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;
-    <a href="https://leetcode.com/u/oGuiYOeviX/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </a>&nbsp;
-    <a href="https://github.com/suraj7880314386">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+<br/>
 
+<!-- ─── SOCIAL LINKS ─── -->
+<div align="center">
+  <a href="https://suraj-singh-my-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/suraj-singh-86a492262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@ss2818266">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:e23cseu1384@bennett.edu.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/oGuiYOeviX/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/suraj7880314386">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=suraj7880314386&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" />
-
 </div>
 
 <br/>
