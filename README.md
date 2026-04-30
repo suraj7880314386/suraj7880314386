@@ -12,7 +12,7 @@
 <!-- ─── INTRO SECTION ─── -->
 <div align="center">
 
-  <h3>AI Researcher  ·  Cloud Architect  ·  Full-Stack Engineer</h3>
+  <h3>AI Researcher  ·  Cloud Architect  ·  Full-Stack Engineer   ·  Software Developer   · AI/Ml</h3>
 
   <p>
     <em>"Engineering explainable AI systems (NC2X) and shipping production-grade cloud applications."</em>
